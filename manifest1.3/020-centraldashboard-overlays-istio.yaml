@@ -111,6 +111,12 @@ data:
         },
         {
           "type": "item",
+          "link": "/models/",
+          "text": "Models",
+          "icon": "link"
+        },
+        {
+          "type": "item",
           "link": "/tensorboards/",
           "text": "Tensorboards",
           "icon": "assessment"
